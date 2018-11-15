@@ -1,2 +1,2 @@
 # udp-server
-c program to create udp-server in Instant Cooja simulator
+c program to create udp-server in Cooja simulator 
